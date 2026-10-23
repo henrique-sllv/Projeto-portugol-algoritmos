@@ -1,4 +1,4 @@
-# Visualg-lógica.de.programação
+# Visualg-lógica-de-programação
 Codigos aprendidos durante o aprendizado de algoritmos 
 ### 📌 Sobre o Projeto
 Este é um projeto desenvolvido em **Visualg (Portugol)** com o objetivo de praticar e fixar os conceitos fundamentais de **Lógica de Programação**, como manipulação de variáveis, estruturas condicionais, de repetição e vetores/matrizes. 
