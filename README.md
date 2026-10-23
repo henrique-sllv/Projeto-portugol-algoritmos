@@ -12,4 +12,5 @@ O sistema simula um **Organizador de Dívidas** básico de console, focado no fl
 * **Listagem de Dívidas:** Exibe todas as dívidas cadastradas de forma organizada no console.
 
 > *Nota: Este projeto foi criado como um exercício prático para fixação da lógica de programação. Por esse motivo, funcionalidades avançadas de gerenciamento (como exclusão e baixa/pagamento de dívidas) não foram implementadas nesta versão inicial.*
+> 
 > O repositório foi dividido em duas partes **um mostra o projeto final** o outro **os códigos praticados e aprendidos** durante meu curso
